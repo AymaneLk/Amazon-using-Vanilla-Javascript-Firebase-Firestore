@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    height: 100%;
+}
+
+.main-section {
+    height: 100%;
+}
+
+.main-section-banner {
+    background-image: url('https://i.ibb.co/JnmTD12/banner.jpg');
+    background-position: center top;
+    background-size: cover;
+}
+
+// HELPER CLASSES
+.product-details {
+    margin-right: 1.2rem;
+    cursor: pointer
+}
